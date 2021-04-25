@@ -4,4 +4,4 @@ An AI landing a rocket with a physics engine written from scratch in JavaScript,
 
 Interactive demo: https://sites.google.com/view/rocketlanding/home
 
-<img src="demo.gif" width="256" height="256"/>
+<img src="demo.gif" width="440" height="440"/>
